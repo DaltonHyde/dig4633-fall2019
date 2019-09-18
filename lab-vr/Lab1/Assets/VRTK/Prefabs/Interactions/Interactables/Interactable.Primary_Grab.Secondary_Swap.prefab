@@ -91,33 +91,43 @@ MonoBehaviour:
   Found:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   NotFound:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  IsEmpty:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  IsPopulated:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   Populated:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Added:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Removed:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Emptied:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   currentIndex: 0
   elements: []
 --- !u!1 &2314692835334477205
@@ -296,33 +306,43 @@ MonoBehaviour:
   Found:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   NotFound:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  IsEmpty:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  IsPopulated:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   Populated:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Added:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Removed:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Emptied:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.UnityObjectObservableList+UnityEvent, Zinnia.Runtime,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_TypeName: Zinnia.Data.Collection.List.UnityObjectObservableList+UnityEvent,
+      Zinnia.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   currentIndex: 0
   elements: []
 --- !u!1 &3437316892225468592
@@ -587,32 +607,42 @@ MonoBehaviour:
   Found:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
+    m_TypeName: Zinnia.Data.Collection.List.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   NotFound:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
+    m_TypeName: Zinnia.Data.Collection.List.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  IsEmpty:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  IsPopulated:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   Populated:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
+    m_TypeName: Zinnia.Data.Collection.List.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Added:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
+    m_TypeName: Zinnia.Data.Collection.List.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Removed:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
+    m_TypeName: Zinnia.Data.Collection.List.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   Emptied:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Zinnia.Data.Collection.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
+    m_TypeName: Zinnia.Data.Collection.List.BehaviourObservableList+UnityEvent, Zinnia.Runtime,
       Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   currentIndex: 0
   elements:
@@ -775,6 +805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   emittedTypes: -1
+  statesToProcess: -1
   forwardingSourceValidity:
     field: {fileID: 0}
   CollisionStarted:
