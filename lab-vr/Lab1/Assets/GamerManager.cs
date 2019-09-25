@@ -8,12 +8,14 @@ public class GamerManager : MonoBehaviour
 
     public bool armRestored = false;
 
+    public bool armRestoredTwo = false;
+
     public GameObject finishText;
 
 
     public void checkForVictory()
     {
-        if (hatRestored && armRestored )
+        if (hatRestored && armRestored && armRestoredTwo)
         {
           Debug.Log("Dalton is perplexed");
             finishText.SetActive(true); 
@@ -30,6 +32,13 @@ public class GamerManager : MonoBehaviour
     {
         this.armRestored = true;
         checkForVictory();
+    }
+
+    public void armTwoWasRestored()
+    {
+        this.armRestoredTwo = true;
+        checkForVictory();
+
     }
 
 
