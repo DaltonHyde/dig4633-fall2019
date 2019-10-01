@@ -15,5 +15,8 @@ The interactables are the left arm of scarecrow, right arm of scarecrow, and the
 upon his head. The prompt indicating completion of the task will appear after pieces are in place.
 
 
-
-
+Lab 2 AR:
+My idea for an AR experience is as a character creator. The free asset displayed in AR when running this project functions as a sample of what this experience could look like.
+This app allows the user to build a character in AR. Building/ designing a character in AR can serve a multitude of purposes, some of which are give artists unique insight
+into the character they are creating by allowing them to move around it and get closer to it. In addition to creating unique 3D AR characters this app would allow users to
+randomly generate a character for inspiration for artists. 
